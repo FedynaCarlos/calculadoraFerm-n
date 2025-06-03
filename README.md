@@ -6,14 +6,6 @@ Bienvenido/a a la **Calculadora Fermín**, una aplicación simple, elegante y co
 
 ---
 
-## 💻 Vista previa
-
-<div align="center">
-  <img src="https://i.imgur.com/dTKhELm.png" alt="Vista previa de la calculadora" width="400" />
-</div>
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 <div align="center">
